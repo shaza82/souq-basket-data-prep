@@ -1,0 +1,579 @@
+review_id,order_date,city,category,product,rating,review_text
+R00005,2026-08-04,Tanta,Beauty,Sunscreen SPF50,2,Stopped working after a week
+R00009,2026-08-25,Tanta,Fashion,Leather Wallet,1,Late delivery and the box was open
+R00013,2026-07-03,Assiut,Fashion,Summer Dress,1,Wrong size sent and return was slow
+R00022,2026-08-27,Ismailia,Grocery,Basmati Rice 5kg,2,Late delivery and the box was open
+R00031,2026-07-29,Mansoura,Beauty,Face Wash,1,Arrived damaged / late delivery
+R00032,2026-06-30,Ismailia,Home,Desk Lamp,2,Stopped working after a week
+R00033,2026-06-16,Cairo,Home,Electric Kettle,1,Late delivery - waited 9 days
+R00034,2026-08-03,Luxor,Grocery,Basmati Rice 5kg,2,Wrong size sent and return was slow
+R00035,2026-06-27,Cairo,Fashion,Leather Wallet,2,Late delivery and the box was open
+R00038,2026-08-13,Giza,Beauty,Perfume 100ml,1,Stopped working after a week
+R00041,2026-07-29,Tanta,Electronics,Wireless Earbuds,2,Stopped working after a week
+R00042,2026-07-12,Hurghada,Beauty,Hair Oil,2,Not as described
+R00047,2026-07-22,Tanta,Grocery,Dates Box,1,Wrong size sent and return was slow
+R00050,2026-06-14,Mansoura,Beauty,Perfume 100ml,1,Late delivery and the box was open
+R00057,2026-06-07,Assiut,Electronics,Smart Watch,2,Late delivery and the box was open / late delivery
+R00058,2026-06-04,Ismailia,Electronics,Bluetooth Speaker,1,Very poor quality / late delivery
+R00064,2026-06-23,Alexandria,Grocery,Honey Jar,1,Stopped working after a week / late delivery
+R00078,2026-06-17,Cairo,Fashion,Running Shoes,1,Late delivery and no update from the courier
+R00081,2026-08-16,Cairo,Beauty,Perfume 100ml,1,Not as described / late delivery
+R00084,2026-06-12,Zagazig,Home,Desk Lamp,2,Very poor quality
+R00089,2026-07-06,Giza,Home,Bed Sheets Set,2,Late delivery - waited 9 days
+R00090,2026-06-25,Zagazig,Home,Storage Boxes,2,Very poor quality
+R00091,2026-07-05,Cairo,Beauty,Hair Oil,2,Late delivery and no update from the courier
+R00095,2026-07-16,Hurghada,Beauty,Hand Cream,1,Stopped working after a week / late delivery
+R00099,2026-08-30,Assiut,Grocery,Honey Jar,1,Very poor quality / late delivery
+R00109,2026-07-30,Giza,Home,Desk Lamp,2,Stopped working after a week / late delivery
+R00111,2026-07-26,Cairo,Fashion,Leather Wallet,2,Stopped working after a week
+R00112,2026-06-29,Ismailia,Beauty,Perfume 100ml,2,Late delivery and the box was open
+R00115,2026-07-16,Giza,Fashion,Leather Wallet,2,Late delivery and no update from the courier
+R00125,2026-08-06,Hurghada,Fashion,Running Shoes,2,Stopped working after a week
+R00133,2026-07-18,Tanta,Electronics,Phone Charger 20W,2,Late delivery - waited 9 days
+R00134,2026-08-16,Luxor,Home,Electric Kettle,1,Arrived damaged
+R00137,2026-06-16,Zagazig,Home,Electric Kettle,2,Very poor quality
+R00138,2026-08-19,Luxor,Home,Storage Boxes,1,Arrived damaged
+R00144,2026-07-22,Giza,Grocery,Honey Jar,1,Late delivery - waited 9 days
+R00157,2026-08-20,Ismailia,Grocery,Honey Jar,2,Late delivery and no update from the courier
+R00165,2026-08-24,Zagazig,Beauty,Perfume 100ml,2,Late delivery and the box was open
+R00169,2026-08-07,Cairo,Electronics,Wireless Earbuds,2,Late delivery - waited 9 days
+R00171,2026-08-25,Mansoura,Electronics,Bluetooth Speaker,1,Not as described
+R00174,2026-08-30,Luxor,Electronics,Smart Watch,1,Not as described
+R00177,2026-08-03,Alexandria,Fashion,Cotton T-shirt,1,Late delivery - waited 9 days
+R00182,2026-07-24,Assiut,Grocery,Dates Box,2,Wrong size sent and return was slow
+R00194,2026-06-07,Ismailia,Fashion,Summer Dress,1,Wrong size sent and return was slow / late delivery
+R00198,2026-07-19,Mansoura,Electronics,Bluetooth Speaker,1,Not as described
+R00200,2026-06-20,Giza,Beauty,Hand Cream,1,Wrong size sent and return was slow
+R00205,2026-08-12,Tanta,Electronics,Phone Charger 20W,1,Arrived damaged
+R00210,2026-06-10,Ismailia,Home,Electric Kettle,1,Very poor quality
+R00220,2026-07-16,Zagazig,Beauty,Hair Oil,1,Very poor quality
+R00223,2026-06-02,Cairo,Beauty,Face Wash,2,Very poor quality
+R00229,2026-07-30,Ismailia,Beauty,Sunscreen SPF50,1,Arrived damaged
+R00242,2026-07-05,Ismailia,Fashion,Leather Wallet,2,Not as described
+R00246,2026-06-11,Zagazig,Grocery,Honey Jar,2,Not as described
+R00247,2026-07-17,Ismailia,Beauty,Hand Cream,2,Not as described
+R00255,2026-07-18,Giza,Fashion,Running Shoes,2,Late delivery - waited 9 days
+R00260,2026-06-24,Cairo,Electronics,Bluetooth Speaker,2,Late delivery and no update from the courier
+R00269,2026-08-22,Alexandria,Electronics,Wireless Earbuds,1,Not as described
+R00271,2026-07-14,Zagazig,Home,Electric Kettle,1,Late delivery and no update from the courier / late delivery
+R00289,2026-08-26,Giza,Beauty,Perfume 100ml,1,Arrived damaged
+R00293,2026-07-17,Assiut,Home,Bed Sheets Set,2,Late delivery - waited 9 days
+R00304,2026-07-19,Assiut,Grocery,Basmati Rice 5kg,1,Late delivery and no update from the courier / late delivery
+R00307,2026-06-27,Luxor,Grocery,Ground Coffee 250g,1,Stopped working after a week
+R00310,2026-06-25,Cairo,Electronics,Bluetooth Speaker,2,Wrong size sent and return was slow
+R00319,2026-08-25,Alexandria,Grocery,Ground Coffee 250g,1,Very poor quality
+R00323,2026-07-28,Zagazig,Home,Storage Boxes,1,Late delivery and the box was open
+R00326,2026-08-05,Ismailia,Grocery,Basmati Rice 5kg,2,Late delivery and the box was open
+R00330,2026-08-16,Hurghada,Beauty,Perfume 100ml,2,Late delivery and no update from the courier
+R00334,2026-08-06,Alexandria,Fashion,Leather Wallet,2,Stopped working after a week
+R00337,2026-06-15,Ismailia,Home,Storage Boxes,2,Late delivery and no update from the courier
+R00338,2026-06-19,Alexandria,Home,Non-stick Pan Set,2,Stopped working after a week
+R00366,2026-08-04,Assiut,Home,Non-stick Pan Set,2,Not as described
+R00368,2026-08-07,Luxor,Fashion,Running Shoes,2,Not as described
+R00369,2026-06-13,Alexandria,Home,Bed Sheets Set,1,Very poor quality
+R00370,2026-06-19,Assiut,Beauty,Perfume 100ml,2,Wrong size sent and return was slow
+R00378,2026-08-08,Hurghada,Beauty,Sunscreen SPF50,2,Not as described
+R00381,2026-06-12,Tanta,Grocery,Ground Coffee 250g,1,Very poor quality
+R00383,2026-07-23,Giza,Beauty,Sunscreen SPF50,1,Very poor quality
+R00385,2026-08-01,Cairo,Home,Desk Lamp,2,Wrong size sent and return was slow
+R00386,2026-06-07,Mansoura,Beauty,Hair Oil,1,Late delivery and no update from the courier
+R00391,2026-06-26,Mansoura,Electronics,Bluetooth Speaker,2,Arrived damaged
+R00402,2026-07-17,Mansoura,Electronics,Power Bank 10000mAh,2,Late delivery and the box was open
+R00412,2026-07-17,Assiut,Electronics,Wireless Earbuds,2,Late delivery and no update from the courier
+R00418,2026-07-03,Alexandria,Grocery,Dates Box,1,Very poor quality
+R00420,2026-08-03,Zagazig,Grocery,Olive Oil 1L,2,Wrong size sent and return was slow / late delivery
+R00423,2026-06-11,Hurghada,Home,Non-stick Pan Set,2,Not as described
+R00427,2026-06-17,Mansoura,Beauty,Hand Cream,2,Late delivery and no update from the courier
+R00433,2026-08-11,Hurghada,Grocery,Olive Oil 1L,1,Late delivery and no update from the courier
+R00436,2026-08-22,Luxor,Home,Storage Boxes,1,Late delivery - waited 9 days
+R00444,2026-06-06,Giza,Fashion,Leather Wallet,1,Stopped working after a week
+R00445,2026-08-01,Zagazig,Electronics,Smart Watch,1,Not as described
+R00450,2026-08-07,Mansoura,Beauty,Sunscreen SPF50,1,Not as described
+R00455,2026-06-24,Giza,Beauty,Hand Cream,1,Not as described
+R00456,2026-06-28,Luxor,Home,Bed Sheets Set,1,Very poor quality
+R00459,2026-06-14,Cairo,Beauty,Sunscreen SPF50,2,Late delivery - waited 9 days / late delivery
+R00479,2026-08-20,Hurghada,Beauty,Hand Cream,2,Late delivery and no update from the courier
+R00483,2026-08-13,Hurghada,Fashion,Running Shoes,1,Very poor quality
+R00484,2026-08-23,Hurghada,Beauty,Face Wash,1,Late delivery - waited 9 days / late delivery
+R00488,2026-06-04,Alexandria,Home,Desk Lamp,2,Not as described
+R00489,2026-06-22,Hurghada,Fashion,Running Shoes,2,Not as described
+R00490,2026-07-14,Tanta,Fashion,Leather Wallet,1,Arrived damaged
+R00498,2026-08-17,Giza,Grocery,Honey Jar,1,Very poor quality
+R00506,2026-06-12,Mansoura,Electronics,Power Bank 10000mAh,2,Late delivery and no update from the courier
+R00507,2026-07-05,Tanta,Fashion,Cotton T-shirt,1,Late delivery and no update from the courier
+R00520,2026-08-22,Ismailia,Fashion,Running Shoes,2,Not as described
+R00521,2026-07-15,Tanta,Home,Electric Kettle,1,Very poor quality / late delivery
+R00522,2026-07-31,Luxor,Grocery,Ground Coffee 250g,2,Stopped working after a week / late delivery
+R00529,2026-08-09,Cairo,Electronics,Wireless Earbuds,2,Late delivery - waited 9 days / late delivery
+R00538,2026-08-12,Alexandria,Grocery,Dates Box,1,Late delivery - waited 9 days
+R00540,2026-06-03,Alexandria,Fashion,Kids Sneakers,2,Late delivery and no update from the courier
+R00544,2026-07-02,Mansoura,Beauty,Hand Cream,1,Not as described
+R00547,2026-06-10,Alexandria,Beauty,Hand Cream,1,Arrived damaged
+R00550,2026-06-07,Mansoura,Home,Electric Kettle,1,Late delivery and the box was open
+R00553,2026-07-26,Ismailia,Electronics,Smart Watch,2,Very poor quality
+R00554,2026-06-29,Hurghada,Beauty,Hand Cream,1,Not as described
+R00560,2026-07-10,Cairo,Home,Non-stick Pan Set,1,Not as described
+R00562,2026-06-22,Alexandria,Grocery,Basmati Rice 5kg,2,Wrong size sent and return was slow
+R00579,2026-08-27,Tanta,Fashion,Leather Wallet,1,Late delivery and no update from the courier / late delivery
+R00581,2026-07-12,Assiut,Electronics,Smart Watch,2,Wrong size sent and return was slow
+R00583,2026-06-02,Zagazig,Home,Storage Boxes,2,Late delivery and the box was open
+R00587,2026-07-09,Cairo,Home,Non-stick Pan Set,1,Not as described
+R00588,2026-07-13,Zagazig,Fashion,Summer Dress,2,Late delivery and the box was open
+R00600,2026-07-16,Luxor,Beauty,Sunscreen SPF50,1,Very poor quality
+R00602,2026-08-21,Tanta,Grocery,Olive Oil 1L,2,Arrived damaged / late delivery
+R00607,2026-08-27,Mansoura,Grocery,Ground Coffee 250g,2,Late delivery and the box was open
+R00608,2026-08-31,Mansoura,Home,Electric Kettle,2,Not as described
+R00614,2026-06-27,Giza,Beauty,Sunscreen SPF50,2,Wrong size sent and return was slow
+R00617,2026-07-06,Giza,Home,Electric Kettle,1,Not as described / late delivery
+R00626,2026-06-04,Cairo,Home,Storage Boxes,1,Late delivery and the box was open
+R00631,2026-06-27,Alexandria,Fashion,Leather Wallet,2,Not as described
+R00643,2026-07-12,Luxor,Beauty,Perfume 100ml,2,Late delivery and the box was open
+R00644,2026-07-06,Zagazig,Grocery,Olive Oil 1L,1,Not as described
+R00645,2026-08-13,Tanta,Electronics,Smart Watch,2,Arrived damaged
+R00649,2026-08-31,Zagazig,Grocery,Honey Jar,2,Stopped working after a week / late delivery
+R00651,2026-08-16,Cairo,Grocery,Ground Coffee 250g,1,Late delivery and the box was open
+R00664,2026-08-26,Assiut,Home,Desk Lamp,1,Wrong size sent and return was slow
+R00666,2026-07-26,Assiut,Beauty,Perfume 100ml,2,Late delivery and no update from the courier
+R00672,2026-08-09,Zagazig,Fashion,Running Shoes,1,Stopped working after a week
+R00682,2026-08-27,Assiut,Electronics,Smart Watch,1,Late delivery and the box was open
+R00685,2026-07-17,Cairo,Grocery,Ground Coffee 250g,1,Very poor quality
+R00699,2026-08-13,Zagazig,Home,Electric Kettle,2,Very poor quality
+R00702,2026-08-09,Cairo,Electronics,Wireless Earbuds,2,Late delivery and the box was open
+R00704,2026-07-12,Giza,Grocery,Ground Coffee 250g,2,Not as described
+R00712,2026-07-07,Alexandria,Fashion,Running Shoes,1,Late delivery and no update from the courier
+R00714,2026-07-16,Zagazig,Home,Electric Kettle,1,Very poor quality
+R00715,2026-07-24,Alexandria,Electronics,Smart Watch,2,Late delivery - waited 9 days
+R00717,2026-06-02,Cairo,Fashion,Summer Dress,2,Late delivery and no update from the courier
+R00721,2026-08-24,Ismailia,Beauty,Hair Oil,2,Late delivery - waited 9 days
+R00724,2026-08-22,Giza,Beauty,Face Wash,2,Not as described
+R00732,2026-08-22,Cairo,Grocery,Honey Jar,1,Stopped working after a week
+R00733,2026-06-10,Luxor,Fashion,Kids Sneakers,1,Very poor quality
+R00734,2026-08-26,Tanta,Fashion,Summer Dress,2,Wrong size sent and return was slow / late delivery
+R00738,2026-06-16,Giza,Beauty,Perfume 100ml,1,Wrong size sent and return was slow
+R00739,2026-07-26,Assiut,Fashion,Summer Dress,2,Late delivery and no update from the courier
+R00749,2026-06-23,Alexandria,Electronics,Power Bank 10000mAh,2,Not as described
+R00758,2026-07-11,Mansoura,Home,Storage Boxes,2,Very poor quality / late delivery
+R00770,2026-07-12,Tanta,Fashion,Leather Wallet,2,Not as described
+R00772,2026-07-06,Luxor,Grocery,Dates Box,2,Not as described
+R00778,2026-07-06,Luxor,Electronics,Power Bank 10000mAh,1,Very poor quality
+R00780,2026-08-15,Tanta,Grocery,Ground Coffee 250g,2,Late delivery and no update from the courier
+R00793,2026-06-05,Hurghada,Home,Bed Sheets Set,2,Late delivery and no update from the courier
+R00800,2026-07-07,Cairo,Fashion,Summer Dress,1,Arrived damaged
+R00806,2026-06-19,Cairo,Fashion,Leather Wallet,2,Late delivery - waited 9 days
+R00814,2026-08-29,Alexandria,Electronics,Smart Watch,1,Late delivery and no update from the courier
+R00815,2026-07-05,Giza,Grocery,Olive Oil 1L,1,Arrived damaged
+R00822,2026-06-16,Cairo,Grocery,Olive Oil 1L,2,Wrong size sent and return was slow
+R00836,2026-06-28,Giza,Home,Storage Boxes,1,Late delivery and the box was open
+R00840,2026-08-08,Mansoura,Fashion,Leather Wallet,2,Late delivery and the box was open
+R00842,2026-07-11,Hurghada,Home,Storage Boxes,1,Late delivery and no update from the courier
+R00844,2026-06-09,Mansoura,Grocery,Honey Jar,2,Not as described
+R00846,2026-07-10,Cairo,Beauty,Face Wash,2,Stopped working after a week
+R00850,2026-07-06,Assiut,Beauty,Sunscreen SPF50,1,Late delivery and the box was open
+R00858,2026-06-15,Tanta,Grocery,Basmati Rice 5kg,2,Stopped working after a week
+R00864,2026-07-18,Zagazig,Grocery,Olive Oil 1L,1,Late delivery and no update from the courier
+R00865,2026-08-09,Luxor,Home,Bed Sheets Set,2,Late delivery and no update from the courier
+R00868,2026-07-09,Alexandria,Electronics,Bluetooth Speaker,1,Late delivery - waited 9 days
+R00871,2026-08-23,Hurghada,Electronics,Wireless Earbuds,2,Late delivery and no update from the courier
+R00873,2026-07-03,Tanta,Fashion,Running Shoes,1,Arrived damaged / late delivery
+R00874,2026-07-11,Alexandria,Home,Electric Kettle,1,Stopped working after a week
+R00880,2026-07-25,Cairo,Beauty,Hand Cream,1,Not as described
+R00881,2026-08-24,Mansoura,Electronics,Power Bank 10000mAh,1,Late delivery and no update from the courier / late delivery
+R00883,2026-06-05,Mansoura,Electronics,Smart Watch,2,Stopped working after a week
+R00887,2026-06-27,Zagazig,Electronics,Wireless Earbuds,2,Late delivery - waited 9 days
+R00891,2026-07-03,Hurghada,Fashion,Running Shoes,2,Late delivery and no update from the courier
+R00895,2026-07-26,Hurghada,Home,Storage Boxes,2,Very poor quality
+R00897,2026-07-26,Cairo,Fashion,Leather Wallet,1,Arrived damaged / late delivery
+R00900,2026-06-18,Zagazig,Home,Storage Boxes,1,Late delivery and no update from the courier
+R00903,2026-07-04,Giza,Beauty,Face Wash,2,Wrong size sent and return was slow
+R00920,2026-06-30,Assiut,Electronics,Phone Charger 20W,1,Wrong size sent and return was slow
+R00928,2026-08-03,Mansoura,Beauty,Perfume 100ml,1,Not as described
+R00933,2026-08-22,Giza,Beauty,Hand Cream,1,Late delivery and the box was open
+R00936,2026-06-15,Zagazig,Home,Bed Sheets Set,1,Very poor quality
+R00941,2026-07-16,Luxor,Grocery,Olive Oil 1L,2,Wrong size sent and return was slow
+R00942,2026-07-16,Tanta,Home,Desk Lamp,1,Arrived damaged
+R00946,2026-08-03,Tanta,Fashion,Summer Dress,2,Late delivery and no update from the courier
+R00947,2026-07-14,Mansoura,Beauty,Sunscreen SPF50,2,Very poor quality
+R00953,2026-07-16,Luxor,Electronics,Phone Charger 20W,2,Not as described / late delivery
+R00963,2026-08-05,Hurghada,Fashion,Kids Sneakers,2,Late delivery and no update from the courier
+R00969,2026-08-22,Alexandria,Electronics,Phone Charger 20W,2,Not as described
+R00970,2026-07-19,Tanta,Beauty,Perfume 100ml,1,Stopped working after a week
+R00987,2026-06-22,Tanta,Grocery,Basmati Rice 5kg,1,Very poor quality
+R00999,2026-07-26,Hurghada,Beauty,Sunscreen SPF50,1,Stopped working after a week
+R01002,2026-08-23,Cairo,Electronics,Phone Charger 20W,2,Late delivery and no update from the courier
+R01005,2026-08-30,Zagazig,Electronics,Phone Charger 20W,2,Very poor quality
+R01007,2026-08-09,Hurghada,Electronics,Smart Watch,1,Wrong size sent and return was slow
+R01011,2026-08-03,Cairo,Grocery,Olive Oil 1L,2,Not as described
+R01019,2026-07-09,Cairo,Home,Non-stick Pan Set,2,Wrong size sent and return was slow
+R01023,2026-07-06,Giza,Fashion,Leather Wallet,1,Very poor quality
+R01026,2026-08-18,Hurghada,Grocery,Honey Jar,1,Wrong size sent and return was slow
+R01028,2026-07-13,Zagazig,Grocery,Olive Oil 1L,2,Arrived damaged
+R01031,2026-07-29,Luxor,Fashion,Leather Wallet,2,Wrong size sent and return was slow
+R01035,2026-08-21,Alexandria,Beauty,Sunscreen SPF50,1,Stopped working after a week
+R01036,2026-06-19,Tanta,Home,Storage Boxes,2,Stopped working after a week
+R01038,2026-06-01,Giza,Beauty,Hand Cream,2,Very poor quality
+R01041,2026-07-18,Cairo,Grocery,Basmati Rice 5kg,1,Late delivery and the box was open
+R01043,2026-08-05,Mansoura,Grocery,Olive Oil 1L,2,Stopped working after a week
+R01051,2026-06-02,Giza,Fashion,Leather Wallet,1,Late delivery - waited 9 days
+R01053,2026-08-20,Tanta,Home,Desk Lamp,1,Late delivery and the box was open / late delivery
+R01072,2026-07-03,Ismailia,Fashion,Summer Dress,1,Very poor quality / late delivery
+R01079,2026-06-29,Tanta,Beauty,Hand Cream,1,Not as described
+R01080,2026-06-30,Hurghada,Grocery,Ground Coffee 250g,1,Wrong size sent and return was slow
+R01081,2026-08-19,Ismailia,Home,Bed Sheets Set,2,Arrived damaged
+R01089,2026-07-26,Giza,Electronics,Wireless Earbuds,2,Late delivery and no update from the courier
+R01090,2026-06-23,Giza,Beauty,Face Wash,2,Wrong size sent and return was slow
+R01095,2026-07-31,Giza,Grocery,Ground Coffee 250g,2,Wrong size sent and return was slow / late delivery
+R01100,2026-08-06,Alexandria,Beauty,Hand Cream,2,Late delivery and the box was open / late delivery
+R01115,2026-08-08,Alexandria,Grocery,Dates Box,2,Stopped working after a week
+R01116,2026-08-26,Assiut,Electronics,Smart Watch,2,Stopped working after a week
+R01133,2026-08-08,Mansoura,Grocery,Basmati Rice 5kg,2,Late delivery - waited 9 days
+R01140,2026-08-30,Hurghada,Fashion,Leather Wallet,1,Late delivery and the box was open
+R01144,2026-06-08,Mansoura,Electronics,Phone Charger 20W,2,Very poor quality
+R01146,2026-07-15,Mansoura,Grocery,Ground Coffee 250g,1,Late delivery - waited 9 days
+R01151,2026-08-01,Mansoura,Home,Electric Kettle,2,Late delivery and no update from the courier / late delivery
+R01155,2026-06-11,Cairo,Electronics,Bluetooth Speaker,1,Very poor quality
+R01163,2026-08-11,Zagazig,Beauty,Hand Cream,1,Late delivery and the box was open
+R01168,2026-08-10,Tanta,Fashion,Running Shoes,2,Arrived damaged
+R01175,2026-07-31,Zagazig,Fashion,Cotton T-shirt,1,Very poor quality
+R01176,2026-08-31,Giza,Grocery,Ground Coffee 250g,2,Late delivery and the box was open
+R01177,2026-06-11,Giza,Electronics,Wireless Earbuds,2,Late delivery and the box was open
+R01179,2026-08-16,Alexandria,Beauty,Sunscreen SPF50,1,Late delivery - waited 9 days
+R01188,2026-06-29,Zagazig,Beauty,Hair Oil,1,Not as described
+R01193,2026-06-04,Alexandria,Grocery,Ground Coffee 250g,1,Late delivery and no update from the courier
+R01195,2026-08-21,Giza,Grocery,Honey Jar,2,Arrived damaged
+R01204,2026-08-29,Mansoura,Fashion,Summer Dress,1,Late delivery and no update from the courier
+R01205,2026-07-27,Hurghada,Electronics,Smart Watch,2,Wrong size sent and return was slow
+R01206,2026-06-14,Giza,Home,Desk Lamp,1,Late delivery - waited 9 days
+R01212,2026-08-27,Ismailia,Home,Bed Sheets Set,2,Stopped working after a week
+R01213,2026-06-25,Alexandria,Electronics,Wireless Earbuds,2,Very poor quality
+R01214,2026-06-04,Giza,Home,Storage Boxes,1,Wrong size sent and return was slow
+R01216,2026-06-23,Mansoura,Fashion,Kids Sneakers,1,Late delivery - waited 9 days
+R01219,2026-07-15,Cairo,Grocery,Olive Oil 1L,2,Arrived damaged
+R01245,2026-08-11,Ismailia,Fashion,Kids Sneakers,1,Late delivery - waited 9 days
+R01247,2026-08-06,Zagazig,Grocery,Ground Coffee 250g,1,Not as described
+R01248,2026-08-08,Tanta,Beauty,Hair Oil,2,Not as described
+R01249,2026-07-03,Cairo,Beauty,Hair Oil,2,Late delivery and the box was open
+R01250,2026-08-17,Luxor,Grocery,Honey Jar,1,Very poor quality
+R01251,2026-06-22,Tanta,Fashion,Leather Wallet,1,Late delivery and no update from the courier
+R01256,2026-08-24,Giza,Fashion,Leather Wallet,1,Stopped working after a week
+R01266,2026-06-02,Ismailia,Home,Desk Lamp,1,Arrived damaged
+R01271,2026-08-15,Giza,Beauty,Perfume 100ml,2,Very poor quality
+R01274,2026-07-14,Mansoura,Home,Storage Boxes,2,Wrong size sent and return was slow / late delivery
+R01275,2026-08-18,Alexandria,Beauty,Hair Oil,1,Late delivery and no update from the courier
+R01278,2026-08-24,Hurghada,Electronics,Phone Charger 20W,2,Very poor quality
+R01285,2026-07-31,Mansoura,Electronics,Smart Watch,1,Stopped working after a week
+R01289,2026-07-20,Ismailia,Grocery,Olive Oil 1L,1,Not as described / late delivery
+R01290,2026-06-03,Cairo,Grocery,Olive Oil 1L,2,Stopped working after a week
+R01298,2026-08-08,Cairo,Beauty,Hand Cream,2,Late delivery and the box was open
+R01302,2026-07-22,Mansoura,Beauty,Sunscreen SPF50,1,Late delivery and the box was open
+R01309,2026-07-21,Giza,Fashion,Running Shoes,2,Arrived damaged
+R01312,2026-08-03,Giza,Electronics,Wireless Earbuds,2,Wrong size sent and return was slow
+R01313,2026-07-26,Giza,Fashion,Leather Wallet,1,Not as described
+R01326,2026-07-11,Hurghada,Home,Non-stick Pan Set,2,Late delivery - waited 9 days
+R01327,2026-06-16,Assiut,Grocery,Ground Coffee 250g,1,Wrong size sent and return was slow / late delivery
+R01331,2026-08-30,Assiut,Home,Storage Boxes,2,Late delivery and the box was open
+R01338,2026-06-07,Ismailia,Beauty,Face Wash,2,Stopped working after a week
+R01347,2026-06-07,Assiut,Fashion,Summer Dress,2,Late delivery - waited 9 days
+R01348,2026-06-12,Alexandria,Grocery,Basmati Rice 5kg,1,Late delivery and no update from the courier / late delivery
+R01354,2026-06-05,Tanta,Home,Electric Kettle,2,Late delivery - waited 9 days
+R01358,2026-07-13,Tanta,Home,Non-stick Pan Set,1,Not as described
+R01361,2026-06-09,Giza,Grocery,Basmati Rice 5kg,1,Not as described
+R01371,2026-06-11,Tanta,Home,Electric Kettle,1,Late delivery and the box was open
+R01380,2026-06-27,Mansoura,Home,Non-stick Pan Set,2,Arrived damaged
+R01385,2026-07-31,Zagazig,Home,Desk Lamp,2,Not as described
+R01387,2026-07-27,Luxor,Fashion,Leather Wallet,1,Late delivery - waited 9 days
+R01392,2026-06-08,Tanta,Beauty,Perfume 100ml,2,Wrong size sent and return was slow
+R01395,2026-07-06,Tanta,Home,Non-stick Pan Set,2,Stopped working after a week
+R01396,2026-08-25,Cairo,Electronics,Power Bank 10000mAh,2,Late delivery and no update from the courier
+R01401,2026-06-28,Tanta,Grocery,Basmati Rice 5kg,1,Arrived damaged / late delivery
+R01405,2026-07-26,Zagazig,Fashion,Running Shoes,1,Not as described
+R01406,2026-08-27,Assiut,Grocery,Honey Jar,1,Late delivery - waited 9 days
+R01407,2026-07-21,Mansoura,Beauty,Sunscreen SPF50,1,Late delivery and no update from the courier
+R01411,2026-07-30,Cairo,Beauty,Face Wash,2,Late delivery and the box was open
+R01419,2026-08-27,Mansoura,Home,Storage Boxes,1,Late delivery and no update from the courier / late delivery
+R01424,2026-07-01,Cairo,Electronics,Wireless Earbuds,2,Late delivery and no update from the courier
+R01425,2026-06-09,Hurghada,Beauty,Hand Cream,1,Late delivery and no update from the courier
+R01435,2026-08-16,Hurghada,Beauty,Hair Oil,2,Very poor quality
+R01439,2026-08-28,Assiut,Electronics,Power Bank 10000mAh,2,Very poor quality
+R01450,2026-08-31,Giza,Grocery,Dates Box,1,Late delivery - waited 9 days
+R01453,2026-08-07,Ismailia,Home,Storage Boxes,1,Wrong size sent and return was slow
+R01458,2026-07-16,Giza,Beauty,Hair Oil,2,Late delivery and no update from the courier
+R01463,2026-08-17,Alexandria,Grocery,Olive Oil 1L,1,Wrong size sent and return was slow
+R01464,2026-06-11,Hurghada,Beauty,Hand Cream,2,Arrived damaged
+R01465,2026-08-15,Ismailia,Fashion,Running Shoes,2,Late delivery - waited 9 days
+R01470,2026-06-06,Assiut,Fashion,Running Shoes,1,Arrived damaged
+R01473,2026-06-26,Ismailia,Fashion,Kids Sneakers,1,Very poor quality
+R01483,2026-08-20,Alexandria,Fashion,Cotton T-shirt,1,Wrong size sent and return was slow
+R01484,2026-08-23,Giza,Beauty,Hair Oil,2,Arrived damaged / late delivery
+R01485,2026-07-14,Assiut,Home,Bed Sheets Set,1,Very poor quality
+R01490,2026-06-24,Cairo,Beauty,Hair Oil,1,Stopped working after a week / late delivery
+R01497,2026-08-17,Giza,Home,Bed Sheets Set,2,Stopped working after a week
+R01499,2026-08-11,Zagazig,Home,Non-stick Pan Set,1,Late delivery and no update from the courier
+R01502,2026-07-28,Tanta,Home,Desk Lamp,2,Stopped working after a week
+R01504,2026-06-26,Hurghada,Electronics,Phone Charger 20W,2,Late delivery and no update from the courier
+R01506,2026-07-12,Zagazig,Home,Storage Boxes,1,Not as described
+R01513,2026-06-06,Assiut,Home,Bed Sheets Set,1,Stopped working after a week
+R01533,2026-06-14,Ismailia,Electronics,Smart Watch,2,Late delivery - waited 9 days
+R01558,2026-06-12,Mansoura,Fashion,Leather Wallet,1,Arrived damaged
+R01563,2026-08-06,Mansoura,Fashion,Leather Wallet,1,Late delivery and no update from the courier
+R01564,2026-07-09,Giza,Electronics,Smart Watch,1,Late delivery - waited 9 days
+R01570,2026-08-28,Mansoura,Electronics,Wireless Earbuds,2,Not as described
+R01571,2026-07-30,Alexandria,Fashion,Running Shoes,2,Not as described
+R01578,2026-07-10,Mansoura,Home,Non-stick Pan Set,1,Very poor quality
+R01579,2026-06-04,Assiut,Grocery,Dates Box,2,Late delivery - waited 9 days
+R01582,2026-06-26,Cairo,Home,Electric Kettle,2,Very poor quality
+R01591,2026-07-28,Cairo,Fashion,Cotton T-shirt,1,Late delivery and the box was open / late delivery
+R01594,2026-07-08,Hurghada,Electronics,Power Bank 10000mAh,1,Very poor quality / late delivery
+R01597,2026-06-04,Hurghada,Home,Storage Boxes,1,Late delivery - waited 9 days / late delivery
+R01604,2026-08-04,Mansoura,Fashion,Leather Wallet,2,Very poor quality
+R01612,2026-06-02,Mansoura,Home,Storage Boxes,2,Late delivery and no update from the courier
+R01615,2026-06-01,Luxor,Beauty,Hand Cream,1,Arrived damaged
+R01617,2026-06-14,Hurghada,Beauty,Hand Cream,1,Late delivery and no update from the courier
+R01619,2026-07-03,Ismailia,Electronics,Wireless Earbuds,1,Wrong size sent and return was slow
+R01620,2026-06-12,Ismailia,Grocery,Honey Jar,2,Very poor quality
+R01621,2026-07-12,Cairo,Grocery,Honey Jar,2,Not as described / late delivery
+R01628,2026-07-18,Tanta,Home,Storage Boxes,1,Wrong size sent and return was slow
+R01630,2026-08-12,Tanta,Home,Non-stick Pan Set,2,Late delivery and the box was open
+R01641,2026-07-13,Assiut,Grocery,Dates Box,2,Arrived damaged / late delivery
+R01643,2026-06-30,Ismailia,Electronics,Wireless Earbuds,2,Wrong size sent and return was slow
+R01647,2026-08-14,Hurghada,Beauty,Face Wash,2,Arrived damaged
+R01653,2026-06-02,Alexandria,Fashion,Kids Sneakers,1,Arrived damaged
+R01661,2026-08-14,Luxor,Beauty,Perfume 100ml,2,Very poor quality
+R01662,2026-07-29,Hurghada,Electronics,Smart Watch,1,Late delivery and no update from the courier
+R01666,2026-08-27,Mansoura,Fashion,Cotton T-shirt,1,Late delivery and the box was open
+R01673,2026-06-23,Alexandria,Electronics,Power Bank 10000mAh,2,Very poor quality
+R01674,2026-08-24,Alexandria,Grocery,Dates Box,1,Late delivery and the box was open
+R01678,2026-07-22,Luxor,Beauty,Hand Cream,1,Very poor quality
+R01688,2026-06-12,Giza,Beauty,Perfume 100ml,1,Arrived damaged
+R01698,2026-07-05,Zagazig,Grocery,Dates Box,1,Late delivery - waited 9 days
+R01709,2026-07-02,Cairo,Home,Bed Sheets Set,2,Wrong size sent and return was slow
+R01718,2026-06-06,Hurghada,Grocery,Dates Box,1,Not as described
+R01720,2026-08-19,Zagazig,Fashion,Summer Dress,1,Not as described
+R01721,2026-07-28,Mansoura,Home,Desk Lamp,2,Late delivery - waited 9 days
+R01733,2026-07-23,Giza,Fashion,Leather Wallet,2,Late delivery and the box was open
+R01749,2026-07-17,Tanta,Electronics,Power Bank 10000mAh,2,Late delivery and no update from the courier / late delivery
+R01752,2026-07-10,Giza,Fashion,Leather Wallet,2,Not as described
+R01757,2026-08-12,Hurghada,Grocery,Ground Coffee 250g,1,Stopped working after a week
+R01764,2026-07-24,Hurghada,Beauty,Perfume 100ml,1,Stopped working after a week
+R01766,2026-06-28,Ismailia,Fashion,Leather Wallet,1,Arrived damaged
+R01768,2026-08-13,Mansoura,Home,Electric Kettle,1,Wrong size sent and return was slow
+R01769,2026-06-20,Tanta,Beauty,Hand Cream,2,Stopped working after a week
+R01772,2026-07-18,Hurghada,Grocery,Ground Coffee 250g,2,Not as described
+R01775,2026-07-31,Tanta,Electronics,Power Bank 10000mAh,2,Stopped working after a week
+R01777,2026-06-28,Giza,Fashion,Running Shoes,2,Late delivery and the box was open
+R01781,2026-07-20,Mansoura,Beauty,Hair Oil,1,Arrived damaged
+R01785,2026-07-30,Tanta,Beauty,Perfume 100ml,1,Very poor quality
+R01795,2026-06-13,Giza,Fashion,Kids Sneakers,1,Late delivery and no update from the courier
+R01804,2026-06-09,Luxor,Grocery,Dates Box,2,Late delivery - waited 9 days
+R01809,2026-07-24,Tanta,Fashion,Summer Dress,1,Arrived damaged
+R01812,2026-07-24,Cairo,Fashion,Summer Dress,1,Wrong size sent and return was slow
+R01832,2026-08-09,Mansoura,Beauty,Hair Oil,1,Late delivery and the box was open
+R01834,2026-08-02,Zagazig,Grocery,Basmati Rice 5kg,1,Stopped working after a week / late delivery
+R01839,2026-08-01,Giza,Electronics,Phone Charger 20W,2,Very poor quality
+R01840,2026-07-12,Tanta,Beauty,Hair Oil,1,Arrived damaged
+R01848,2026-08-28,Tanta,Electronics,Phone Charger 20W,2,Late delivery and the box was open
+R01850,2026-08-02,Zagazig,Grocery,Dates Box,1,Not as described
+R01857,2026-06-25,Tanta,Fashion,Summer Dress,2,Wrong size sent and return was slow
+R01868,2026-06-21,Assiut,Electronics,Phone Charger 20W,1,Late delivery and no update from the courier
+R01876,2026-06-13,Ismailia,Fashion,Running Shoes,2,Not as described
+R01884,2026-08-22,Zagazig,Home,Storage Boxes,2,Arrived damaged
+R01886,2026-08-04,Mansoura,Beauty,Perfume 100ml,1,Late delivery and the box was open
+R01887,2026-07-21,Luxor,Fashion,Leather Wallet,1,Late delivery and no update from the courier
+R01889,2026-08-24,Cairo,Beauty,Hand Cream,2,Wrong size sent and return was slow
+R01892,2026-07-05,Mansoura,Home,Non-stick Pan Set,2,Wrong size sent and return was slow
+R01899,2026-06-13,Alexandria,Electronics,Power Bank 10000mAh,1,Late delivery and no update from the courier
+R01901,2026-07-21,Assiut,Beauty,Hand Cream,1,Wrong size sent and return was slow / late delivery
+R01903,2026-06-30,Luxor,Electronics,Phone Charger 20W,2,Very poor quality
+R01917,2026-07-13,Tanta,Home,Bed Sheets Set,1,Stopped working after a week
+R01921,2026-06-20,Hurghada,Electronics,Power Bank 10000mAh,2,Very poor quality
+R01931,2026-06-30,Mansoura,Beauty,Hair Oil,2,Late delivery and no update from the courier
+R01935,2026-07-26,Luxor,Beauty,Sunscreen SPF50,1,Late delivery and no update from the courier / late delivery
+R01936,2026-07-25,Giza,Fashion,Running Shoes,1,Late delivery - waited 9 days
+R01942,2026-08-13,Assiut,Beauty,Face Wash,2,Wrong size sent and return was slow
+R01952,2026-07-16,Hurghada,Fashion,Summer Dress,1,Very poor quality
+R01956,2026-08-11,Alexandria,Fashion,Running Shoes,1,Late delivery and no update from the courier
+R01957,2026-07-11,Ismailia,Fashion,Leather Wallet,1,Not as described
+R01958,2026-06-17,Luxor,Electronics,Power Bank 10000mAh,2,Not as described
+R01960,2026-08-12,Hurghada,Electronics,Phone Charger 20W,2,Wrong size sent and return was slow / late delivery
+R01969,2026-06-19,Giza,Grocery,Honey Jar,1,Late delivery and the box was open
+R01972,2026-06-20,Alexandria,Grocery,Basmati Rice 5kg,1,Late delivery - waited 9 days
+R01976,2026-07-17,Zagazig,Home,Electric Kettle,1,Not as described
+R01977,2026-07-07,Luxor,Home,Bed Sheets Set,2,Stopped working after a week
+R01979,2026-08-06,Giza,Fashion,Cotton T-shirt,2,Late delivery - waited 9 days / late delivery
+R01980,2026-07-11,Hurghada,Home,Storage Boxes,1,Wrong size sent and return was slow
+R01981,2026-08-29,Mansoura,Electronics,Wireless Earbuds,1,Arrived damaged
+R01983,2026-07-25,Zagazig,Fashion,Summer Dress,1,Stopped working after a week / late delivery
+R01985,2026-07-09,Alexandria,Fashion,Leather Wallet,1,Arrived damaged
+R01989,2026-08-08,Alexandria,Fashion,Leather Wallet,2,Very poor quality
+R01990,2026-07-13,Mansoura,Electronics,Power Bank 10000mAh,1,Late delivery and no update from the courier / late delivery
+R01994,2026-08-31,Giza,Beauty,Face Wash,2,Very poor quality
+R01996,2026-06-25,Ismailia,Home,Storage Boxes,2,Not as described / late delivery
+R02000,2026-07-29,Zagazig,Beauty,Sunscreen SPF50,1,Late delivery and the box was open
+R02003,2026-08-09,Giza,Grocery,Olive Oil 1L,2,Late delivery and the box was open
+R02008,2026-08-10,Assiut,Grocery,Olive Oil 1L,1,Late delivery and the box was open
+R02019,2026-07-30,Giza,Beauty,Hair Oil,2,Not as described
+R02027,2026-06-09,Tanta,Beauty,Face Wash,1,Late delivery - waited 9 days
+R02030,2026-07-24,Mansoura,Fashion,Running Shoes,2,Late delivery and no update from the courier
+R02033,2026-06-12,Ismailia,Grocery,Ground Coffee 250g,1,Stopped working after a week
+R02035,2026-08-29,Mansoura,Beauty,Perfume 100ml,1,Late delivery and no update from the courier / late delivery
+R02044,2026-06-27,Tanta,Fashion,Kids Sneakers,1,Not as described
+R02052,2026-07-06,Tanta,Beauty,Perfume 100ml,1,Arrived damaged
+R02054,2026-08-05,Tanta,Grocery,Dates Box,1,Stopped working after a week / late delivery
+R02059,2026-06-15,Assiut,Fashion,Leather Wallet,1,Not as described
+R02071,2026-08-30,Tanta,Electronics,Bluetooth Speaker,1,Wrong size sent and return was slow / late delivery
+R02073,2026-07-14,Giza,Home,Non-stick Pan Set,1,Late delivery and no update from the courier
+R02074,2026-07-18,Hurghada,Electronics,Smart Watch,2,Late delivery and no update from the courier
+R02083,2026-08-13,Zagazig,Grocery,Honey Jar,2,Very poor quality
+R02093,2026-07-25,Alexandria,Fashion,Summer Dress,2,Late delivery and the box was open
+R02094,2026-08-17,Giza,Home,Electric Kettle,1,Not as described
+R02099,2026-08-14,Cairo,Grocery,Basmati Rice 5kg,2,Stopped working after a week
+R02100,2026-08-11,Ismailia,Beauty,Sunscreen SPF50,1,Not as described / late delivery
+R02104,2026-07-02,Alexandria,Electronics,Smart Watch,1,Not as described
+R02108,2026-08-07,Luxor,Home,Non-stick Pan Set,2,Stopped working after a week
+R02112,2026-08-11,Zagazig,Beauty,Hand Cream,1,Late delivery and no update from the courier
+R02119,2026-06-29,Alexandria,Electronics,Smart Watch,2,Late delivery and no update from the courier
+R02123,2026-06-22,Hurghada,Beauty,Face Wash,1,Late delivery and no update from the courier / late delivery
+R02127,2026-07-20,Assiut,Grocery,Basmati Rice 5kg,2,Late delivery and the box was open
+R02128,2026-07-27,Alexandria,Electronics,Power Bank 10000mAh,1,Late delivery - waited 9 days
+R02129,2026-08-02,Alexandria,Home,Bed Sheets Set,1,Wrong size sent and return was slow
+R02130,2026-08-23,Ismailia,Beauty,Face Wash,1,Very poor quality
+R02136,2026-08-12,Alexandria,Home,Electric Kettle,2,Late delivery and the box was open
+R02147,2026-07-05,Cairo,Beauty,Face Wash,1,Late delivery - waited 9 days
+R02149,2026-07-07,Ismailia,Fashion,Cotton T-shirt,1,Stopped working after a week
+R02151,2026-08-17,Ismailia,Home,Electric Kettle,1,Very poor quality / late delivery
+R02160,2026-07-31,Cairo,Beauty,Hair Oil,1,Not as described
+R02168,2026-07-03,Ismailia,Home,Non-stick Pan Set,1,Arrived damaged
+R02169,2026-06-12,Alexandria,Grocery,Ground Coffee 250g,2,Very poor quality
+R02179,2026-06-17,Hurghada,Grocery,Olive Oil 1L,2,Arrived damaged
+R02185,2026-08-23,Hurghada,Home,Desk Lamp,2,Arrived damaged
+R02197,2026-08-02,Assiut,Beauty,Face Wash,1,Wrong size sent and return was slow / late delivery
+R02198,2026-08-18,Ismailia,Grocery,Honey Jar,1,Late delivery and no update from the courier
+R02204,2026-08-24,Cairo,Grocery,Basmati Rice 5kg,2,Stopped working after a week
+R02207,2026-06-05,Giza,Beauty,Sunscreen SPF50,1,Wrong size sent and return was slow / late delivery
+R02211,2026-06-13,Giza,Beauty,Hand Cream,1,Late delivery and the box was open
+R02214,2026-06-26,Ismailia,Grocery,Basmati Rice 5kg,1,Wrong size sent and return was slow
+R02218,2026-06-04,Cairo,Grocery,Ground Coffee 250g,1,Stopped working after a week
+R02226,2026-07-05,Assiut,Grocery,Ground Coffee 250g,2,Very poor quality / late delivery
+R02230,2026-06-11,Assiut,Home,Non-stick Pan Set,1,Late delivery - waited 9 days
+R02233,2026-08-22,Giza,Home,Desk Lamp,1,Very poor quality
+R02250,2026-06-15,Luxor,Home,Electric Kettle,2,Very poor quality / late delivery
+R02258,2026-08-26,Alexandria,Beauty,Hair Oil,2,Late delivery and the box was open
+R02265,2026-07-14,Zagazig,Home,Bed Sheets Set,2,Late delivery - waited 9 days
+R02282,2026-08-02,Cairo,Fashion,Leather Wallet,2,Wrong size sent and return was slow / late delivery
+R02297,2026-06-02,Mansoura,Fashion,Running Shoes,2,Late delivery and no update from the courier / late delivery
+R02300,2026-07-31,Ismailia,Grocery,Olive Oil 1L,2,Late delivery and no update from the courier
+R02308,2026-07-02,Assiut,Home,Storage Boxes,2,Not as described / late delivery
+R02320,2026-06-05,Giza,Fashion,Running Shoes,2,Late delivery and no update from the courier
+R02328,2026-06-01,Assiut,Fashion,Running Shoes,1,Late delivery and no update from the courier
+R02331,2026-08-21,Giza,Grocery,Honey Jar,2,Late delivery - waited 9 days
+R02341,2026-08-25,Tanta,Grocery,Honey Jar,1,Very poor quality
+R02349,2026-08-24,Alexandria,Home,Storage Boxes,2,Late delivery - waited 9 days
+R02351,2026-07-31,Hurghada,Home,Bed Sheets Set,1,Late delivery and the box was open
+R02356,2026-07-04,Tanta,Fashion,Kids Sneakers,1,Late delivery - waited 9 days
+R02360,2026-07-31,Giza,Grocery,Honey Jar,1,Late delivery - waited 9 days
+R02363,2026-06-21,Hurghada,Beauty,Hair Oil,2,Wrong size sent and return was slow / late delivery
+R02365,2026-06-13,Hurghada,Fashion,Leather Wallet,1,Not as described
+R02375,2026-07-08,Giza,Fashion,Leather Wallet,2,Wrong size sent and return was slow
+R02391,2026-07-07,Alexandria,Electronics,Power Bank 10000mAh,1,Very poor quality / late delivery
+R02399,2026-06-21,Alexandria,Home,Electric Kettle,1,Late delivery and the box was open
+R02401,2026-08-05,Ismailia,Home,Bed Sheets Set,2,Late delivery and the box was open
+R02411,2026-06-10,Assiut,Fashion,Leather Wallet,2,Very poor quality
+R02414,2026-08-24,Ismailia,Electronics,Power Bank 10000mAh,1,Not as described
+R02421,2026-08-18,Tanta,Home,Desk Lamp,1,Late delivery and no update from the courier
+R02426,2026-07-05,Hurghada,Beauty,Face Wash,2,Late delivery - waited 9 days / late delivery
+R02445,2026-07-08,Tanta,Fashion,Running Shoes,1,Very poor quality / late delivery
+R02446,2026-08-26,Alexandria,Grocery,Honey Jar,2,Stopped working after a week
+R02460,2026-07-09,Hurghada,Beauty,Perfume 100ml,1,Arrived damaged
+R02461,2026-07-28,Cairo,Home,Bed Sheets Set,1,Wrong size sent and return was slow
+R02462,2026-07-26,Ismailia,Beauty,Perfume 100ml,1,Arrived damaged
+R02467,2026-06-10,Ismailia,Grocery,Dates Box,1,Arrived damaged
+R02473,2026-06-25,Hurghada,Fashion,Running Shoes,1,Stopped working after a week
+R02476,2026-06-23,Mansoura,Home,Electric Kettle,1,Late delivery and the box was open
+R02479,2026-06-30,Hurghada,Beauty,Sunscreen SPF50,2,Very poor quality / late delivery
+R02486,2026-06-30,Hurghada,Beauty,Hair Oil,2,Not as described
+R02488,2026-06-23,Cairo,Grocery,Olive Oil 1L,2,Very poor quality
+R02490,2026-07-13,Luxor,Grocery,Honey Jar,1,Wrong size sent and return was slow
+R02492,2026-06-25,Luxor,Home,Desk Lamp,1,Stopped working after a week
+R02494,2026-06-26,Alexandria,Grocery,Dates Box,2,Late delivery and the box was open
+R02497,2026-08-15,Cairo,Grocery,Honey Jar,1,Arrived damaged
+R02499,2026-06-12,Luxor,Beauty,Perfume 100ml,1,Late delivery and the box was open
+R02501,2026-07-28,Cairo,Grocery,Olive Oil 1L,1,Late delivery and the box was open
+R02503,2026-06-29,Luxor,Grocery,Olive Oil 1L,2,Not as described / late delivery
+R02507,2026-06-03,Assiut,Electronics,Phone Charger 20W,1,Late delivery and no update from the courier
+R02520,2026-08-18,Cairo,Electronics,Smart Watch,1,Stopped working after a week
+R02521,2026-08-27,Giza,Beauty,Face Wash,2,Late delivery and the box was open
+R02524,2026-08-12,Assiut,Home,Desk Lamp,2,Late delivery - waited 9 days
+R02528,2026-07-14,Alexandria,Electronics,Power Bank 10000mAh,2,Very poor quality
+R02529,2026-07-14,Tanta,Home,Storage Boxes,2,Late delivery and no update from the courier
+R02530,2026-08-24,Zagazig,Home,Electric Kettle,1,Very poor quality
+R02531,2026-08-09,Hurghada,Electronics,Wireless Earbuds,2,Late delivery - waited 9 days
+R02533,2026-08-22,Assiut,Electronics,Power Bank 10000mAh,1,Arrived damaged
+R02540,2026-07-19,Cairo,Electronics,Smart Watch,2,Not as described
+R02552,2026-06-08,Tanta,Electronics,Smart Watch,2,Wrong size sent and return was slow
+R02555,2026-08-28,Hurghada,Grocery,Ground Coffee 250g,2,Very poor quality
+R02570,2026-08-11,Zagazig,Electronics,Phone Charger 20W,2,Not as described
+R02575,2026-08-23,Luxor,Home,Bed Sheets Set,1,Late delivery and no update from the courier
+R02576,2026-08-27,Ismailia,Fashion,Running Shoes,2,Very poor quality
+R02587,2026-08-15,Alexandria,Home,Storage Boxes,1,Not as described
+R02588,2026-07-18,Ismailia,Fashion,Cotton T-shirt,1,Late delivery - waited 9 days
+R02593,2026-07-02,Mansoura,Fashion,Summer Dress,1,Stopped working after a week
+R02600,2026-08-15,Luxor,Home,Non-stick Pan Set,2,Late delivery and no update from the courier
+R02613,2026-07-09,Mansoura,Home,Storage Boxes,1,Late delivery and no update from the courier
+R02616,2026-08-15,Ismailia,Beauty,Perfume 100ml,1,Arrived damaged
+R02621,2026-07-22,Mansoura,Electronics,Bluetooth Speaker,1,Late delivery and the box was open / late delivery
+R02626,2026-07-13,Giza,Fashion,Cotton T-shirt,1,Late delivery and the box was open / late delivery
+R02638,2026-08-05,Tanta,Beauty,Sunscreen SPF50,2,Late delivery - waited 9 days
+R02642,2026-07-20,Ismailia,Electronics,Power Bank 10000mAh,1,Very poor quality
+R02644,2026-06-17,Luxor,Beauty,Hair Oil,1,Late delivery and no update from the courier
+R02662,2026-07-17,Tanta,Grocery,Basmati Rice 5kg,1,Not as described
+R02682,2026-06-02,Giza,Electronics,Power Bank 10000mAh,2,Arrived damaged / late delivery
+R02693,2026-06-03,Giza,Home,Electric Kettle,2,Very poor quality
+R02702,2026-08-26,Hurghada,Home,Bed Sheets Set,2,Late delivery - waited 9 days
+R02705,2026-07-02,Giza,Home,Bed Sheets Set,2,Very poor quality
+R02712,2026-08-24,Ismailia,Home,Desk Lamp,2,Stopped working after a week
+R02716,2026-08-24,Tanta,Grocery,Basmati Rice 5kg,2,Wrong size sent and return was slow
+R02717,2026-06-20,Mansoura,Beauty,Sunscreen SPF50,2,Not as described
+R02722,2026-06-16,Assiut,Fashion,Summer Dress,1,Wrong size sent and return was slow
+R02723,2026-06-17,Mansoura,Beauty,Hand Cream,2,Very poor quality
+R02725,2026-06-07,Hurghada,Home,Bed Sheets Set,2,Not as described
+R02726,2026-08-10,Cairo,Beauty,Sunscreen SPF50,2,Very poor quality
+R02732,2026-07-13,Giza,Beauty,Perfume 100ml,1,Wrong size sent and return was slow / late delivery
+R02747,2026-08-27,Tanta,Electronics,Wireless Earbuds,1,Stopped working after a week
+R02749,2026-06-27,Alexandria,Fashion,Running Shoes,1,Late delivery and the box was open
+R02773,2026-07-05,Cairo,Electronics,Wireless Earbuds,1,Very poor quality
+R02774,2026-06-21,Assiut,Beauty,Face Wash,2,Wrong size sent and return was slow
+R02776,2026-08-22,Alexandria,Grocery,Basmati Rice 5kg,2,Wrong size sent and return was slow
+R02785,2026-07-02,Tanta,Fashion,Cotton T-shirt,2,Stopped working after a week
+R02791,2026-08-06,Cairo,Electronics,Wireless Earbuds,1,Arrived damaged
+R02794,2026-07-20,Mansoura,Home,Electric Kettle,1,Late delivery and no update from the courier
+R02797,2026-06-09,Cairo,Grocery,Basmati Rice 5kg,2,Late delivery and the box was open
+R02802,2026-08-27,Assiut,Electronics,Wireless Earbuds,1,Not as described
+R02805,2026-07-31,Luxor,Fashion,Leather Wallet,1,Late delivery and no update from the courier
+R02808,2026-08-19,Assiut,Fashion,Cotton T-shirt,2,Late delivery and no update from the courier
+R02813,2026-06-07,Ismailia,Beauty,Hair Oil,1,Late delivery and the box was open
+R02816,2026-06-21,Alexandria,Home,Desk Lamp,1,Not as described
+R02822,2026-07-22,Tanta,Home,Storage Boxes,2,Arrived damaged
+R02825,2026-07-04,Zagazig,Beauty,Face Wash,2,Late delivery and the box was open
+R02833,2026-07-24,Cairo,Fashion,Running Shoes,1,Stopped working after a week
+R02834,2026-07-02,Hurghada,Beauty,Perfume 100ml,1,Late delivery and the box was open
+R02844,2026-07-02,Mansoura,Beauty,Hand Cream,1,Stopped working after a week
+R02858,2026-06-12,Giza,Home,Storage Boxes,1,Wrong size sent and return was slow
+R02861,2026-06-24,Assiut,Electronics,Power Bank 10000mAh,2,Arrived damaged
+R02862,2026-08-22,Hurghada,Electronics,Bluetooth Speaker,1,Not as described
+R02870,2026-06-04,Zagazig,Electronics,Smart Watch,1,Not as described / late delivery
+R02874,2026-07-16,Hurghada,Fashion,Leather Wallet,2,Wrong size sent and return was slow
+R02878,2026-07-03,Alexandria,Electronics,Power Bank 10000mAh,1,Not as described
+R02885,2026-07-11,Hurghada,Home,Desk Lamp,1,Not as described
+R02897,2026-07-25,Luxor,Electronics,Power Bank 10000mAh,1,Late delivery and the box was open
+R02903,2026-08-14,Assiut,Beauty,Sunscreen SPF50,1,Late delivery and the box was open
+R02905,2026-06-09,Giza,Grocery,Olive Oil 1L,2,Not as described
+R02909,2026-06-22,Assiut,Beauty,Sunscreen SPF50,1,Wrong size sent and return was slow
+R02924,2026-06-26,Giza,Home,Non-stick Pan Set,2,Arrived damaged
+R02927,2026-08-28,Assiut,Beauty,Hand Cream,1,Very poor quality
+R02930,2026-08-23,Giza,Fashion,Leather Wallet,1,Not as described
+R02933,2026-07-16,Giza,Beauty,Face Wash,1,Stopped working after a week / late delivery
+R02937,2026-08-23,Ismailia,Beauty,Sunscreen SPF50,2,Late delivery and no update from the courier
+R02939,2026-07-01,Ismailia,Fashion,Leather Wallet,1,Very poor quality
+R02944,2026-07-02,Luxor,Fashion,Running Shoes,2,Stopped working after a week
+R02948,2026-06-19,Zagazig,Grocery,Honey Jar,2,Late delivery - waited 9 days
+R02957,2026-08-01,Zagazig,Beauty,Perfume 100ml,2,Wrong size sent and return was slow
+R02959,2026-08-27,Assiut,Electronics,Bluetooth Speaker,2,Arrived damaged
