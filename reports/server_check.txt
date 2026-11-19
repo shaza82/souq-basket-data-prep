@@ -1,0 +1,17 @@
+== hostname -I ==
+192.0.2.2 
+
+== ip a ==
+/tmp/fix.sh: line 5: ip: command not found
+
+== ping -c 3 8.8.8.8 ==
+/tmp/fix.sh: line 6: ping: command not found
+
+== curl -I https://example.com ==
+curl: (56) CONNECT tunnel failed, response 403
+HTTP/1.1 403 Forbidden (agent proxy: no rule or network setting allows this host)
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+Content-Length: 69
+Connection: close
+

@@ -1,0 +1,33 @@
+== id analyst ==
+uid=30034(analyst) gid=30034(analyst) groups=30034(analyst),30003(datateam)
+
+== ls -l scripts clean raw ==
+clean:
+total 272
+-rw-r----- 1 root datateam  46391 Nov 19 14:48 low_rating_reviews.csv
+-rw-r----- 1 root datateam 228133 Nov 19 14:48 reviews_clean.csv
+
+raw:
+total 532
+-r--r--r-- 1 root datateam 305988 Nov 19 14:48 app_server.log
+-r--r--r-- 1 root datateam 234409 Nov 19 14:48 reviews_raw.csv
+
+scripts:
+total 4
+-rwxr-x--- 1 root datateam 2082 Nov 19 14:48 prepare_data.sh
+
+== What each permission string means ==
+-rwxr-x--- (750) scripts/prepare_data.sh : owner can read, write and run it; group datateam can read and run it but not change it; everyone else has no access.
+-rw-r----- (640) clean/*.csv              : owner can read and write; group datateam can only read; everyone else has no access.
+-r--r--r-- (444) raw/*                    : everybody can read, nobody (not even the owner) can write - the originals stay safe.
+owner / group columns (root datateam)     : the file belongs to user root and to group datateam; analyst is a member of datateam, so analyst gets the group permissions.
+
+== access tests (run as user analyst, member of datateam) ==
+$ sudo -u analyst head -n 2 clean/low_rating_reviews.csv
+review_id,order_date,city,category,product,rating,review_text
+R00005,2026-08-04,Tanta,Beauty,Sunscreen SPF50,2,Stopped working after a week
+$ sudo -u analyst touch raw/test.txt
+touch: cannot touch 'raw/test.txt': Permission denied
+$ sudo -u analyst sh -c "echo x >> raw/reviews_raw.csv"
+sh: 1: cannot create raw/reviews_raw.csv: Permission denied
+(analyst can READ clean files through the group, but cannot write into raw/)

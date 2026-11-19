@@ -1,0 +1,13 @@
+review_id,order_date,city,category,product,rating,review_text
+R01249,2026-07-03,Cairo,Beauty,Hair Oil,2,Late delivery and the box was open
+R02237,2026-06-08,Mansoura,Grocery,Dates Box,4,Packaging was neat and the item arrived safe
+R02334,2026-08-01,Alexandria,Grocery,Ground Coffee 250g,5,Very good value for money
+R00042,2026-07-12,Hurghada,Beauty,Hair Oil,2,Not as described
+R00650,2026-08-21,Luxor,Beauty,Perfume 100ml,3,It is okay for the price
+R02583,2026-07-04,Ismailia,Fashion,Summer Dress,4,Very good value for money
+R01690,2026-06-11,Hurghada,Home,Electric Kettle,5,Better than expected
+R02761,2026-08-15,Tanta,Electronics,Power Bank 10000mAh,4,Packaging was neat and the item arrived safe
+R01666,2026-08-27,Mansoura,Fashion,Cotton T-shirt,1,Late delivery and the box was open
+3026 raw/reviews_raw.csv
+3
+clean row count (header + data): 2961

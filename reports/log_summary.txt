@@ -1,0 +1,8 @@
+ERROR lines: 312
+WARN lines: 503
+Top 5 error messages (count message):
+    102 payment gateway timeout
+     69 database connection refused
+     54 courier tracking API returned 503
+     37 null value in column product_id
+     28 image upload failed: file too large

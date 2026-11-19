@@ -1,0 +1,5 @@
+    608 Fashion
+    604 Beauty
+    588 Grocery
+    585 Home
+    575 Electronics
